@@ -1,0 +1,96 @@
+<html>
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>Hidrosasco.com.br - Assist&ecirc;ncia T&eacute;cnica em Metais Sanit&aacute;rios</title>
+<!-- #EndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+
+<body bgcolor="#FFFFFF" onLoad="MM_preloadImages('../images/princ_but_over.gif','../images/histo_but_over.gif','../images/prod_but_over.gif','../images/fornec_but_over.gif','../images/agua_but_over.gif','../images/contac_but_over.gif')">
+<table cellspacing="0" cellpadding="0" border="0" align="center">
+  <tr> 
+    <td colspan="2" height="139" valign="top" rowspan="2"></td>
+    <td width="40" height="81" valign="top"> 
+      <div align="center"></div>
+    </td>
+    <td width="275" height="81" valign="top"> 
+      <div align="center"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" width="275" height="82">
+          <param name=movie value="../flash/hidro_logo.swf">
+          <param name=quality value=high>
+          <embed src="../flash/hidro_logo.swf" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="275" height="82">
+          </embed> 
+        </object></div>
+    </td>
+    <td width="39" height="81" valign="top"> 
+      <div align="center"></div>
+    </td>
+    <td colspan="2" height="139" valign="top" rowspan="2"></td>
+  </tr>
+  <tr> 
+    <td width="354" height="25" colspan="3" valign="top"> 
+      <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>A</b></font><b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">SSIST&Ecirc;NCIA 
+        <font size="3">T</font>&Eacute;CNICA <font size="3">E</font>M <font size="3">M</font>ETAIS 
+        <font size="3">S</font>ANIT&Aacute;RIOS</font></b></div>
+    </td>
+  </tr>
+  <tr> 
+    <td colspan="7" height="17" valign="top"> 
+      <div align="center"><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('PRINCIPAL','','../images/princ_but_over.gif',1)"> 
+        <img src="../images/princ_but.gif" width="84" height="13" name="PRINCIPAL" border="0"></a> 
+        <a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('HISTORIA','','../images/histo_but_over.gif',1)"><img src="../images/histo_but.gif" width="84" height="13" name="HISTORIA" border="0"></a> 
+        <a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('PRODUTOS','','../images/prod_but_over.gif',1)"><img src="../images/prod_but.gif" width="84" height="13" name="PRODUTOS" border="0"></a> 
+        <a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('FORNECEDORES','','../images/fornec_but_over.gif',1)"><img src="../images/fornec_but.gif" width="115" height="13" name="FORNECEDORES" border="0"></a> 
+        <a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('AGUA','','../images/agua_but_over.gif',1)"><img src="../images/agua_but.gif" width="98" height="13" name="AGUA" border="0"></a> 
+        <a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('CONTATO','','../images/contac_but_over.gif',1)"><img src="../images/contac_but.gif" width="84" height="13" name="CONTATO" border="0"></a></div>
+    </td>
+  </tr>
+  <tr> 
+    <td width="603" height="124" colspan="7"> <!-- #BeginEditable "text2" -->{text2}<!-- #EndEditable --></td>
+  </tr>
+  <tr> 
+    <td width="603" height="52" colspan="7" valign="top"> 
+      <hr>
+      <div align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Site 
+        powered by <a href="mailto:rebelpower@ieg.com.br">Rebel Power Institution</a> 
+        2003 &reg; All rights reserveds.</font><br>
+        <font face="Verdana, Arial, Helvetica, sans-serif" size="1">webmaster 
+        / webdesigner <a href="mailto:rebelpower@ieg.com.br">R. Russo</a></font></div>
+    </td>
+  </tr>
+  <tr> 
+    <td width="13" height="1" valign="top"><img width="13" height="1" src="../transparent.gif"></td>
+    <td width="107" height="1" valign="top"><img width="107" height="1" src="../transparent.gif"></td>
+    <td width="40" height="1" valign="top"><img width="40" height="1" src="../transparent.gif"></td>
+    <td width="275" height="1" valign="top"><img width="275" height="1" src="../transparent.gif"></td>
+    <td width="39" height="1" valign="top"><img width="39" height="1" src="../transparent.gif"></td>
+    <td width="108" height="1" valign="top"><img width="108" height="1" src="../transparent.gif"></td>
+    <td width="21" height="1" valign="top"><img width="21" height="1" src="../transparent.gif"></td>
+  </tr>
+</table>
+</body>
+</html>
